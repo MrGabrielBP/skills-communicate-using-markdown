@@ -11,3 +11,5 @@
 ###### Header H6
 
 Testando tipos de headers
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
